@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3d04de4-e415-473c-b6e1-bfbfc8ee61a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/gupaoVIP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/collection/collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/dispatcher_servlet/dispatcher_servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/dubbo/dubbo-client/dubbo-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/dubbo/dubbo-server/dubbo-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/dubbo/dubbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/kafka/kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mybatis-plus-crud/mybatis-plus-crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mybatis-plus-generator/mybatis-plus-generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/netty-io/netty-io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/orm-tqz/orm-tqz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/orm_tian/orm_tian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/rabbit-mq/rabbit-mq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/rabbitmq/rabbit-mq (1) (com.tian).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/sharding-sphere/sharding-sphere.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/spring/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/springmvc-tomcat/springmvc-tomcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/thread/thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/websocket/websocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service-admin/zk-service-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service-consumer/zk-service-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service-provider/zk-service-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service-register/zk-service-register.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/zookeeper/zookeeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tqz/.idea/tqz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartWater-pc" beforeDir="false" afterPath="$PROJECT_DIR$/../smartWater-pc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/src/main/java/com/tian/BaseApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/src/main/java/com/tian/controller/SwaggerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/src/main/java/com/tian/swagger/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/swagger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/target/classes/com/tian/BaseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/target/classes/com/tian/controller/SwaggerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swagger/target/classes/com/tian/swagger/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/log/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/log/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/config/database/commons/DynamicDataSourceAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/config/database/commons/DynamicDataSourceAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/controller/SysUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/controller/SysUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/controller/Testcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/controller/Testcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/util/IdGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/util/IdGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/util/ResultVoEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/util/ResultVoEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/MybatisGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/MybatisGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DynamicDataSourceAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DynamicDataSourceAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/SysUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/SysUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/Testcontroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/Testcontroller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/IdGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/IdGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/ResultVoEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/ResultVoEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/test-classes/com/tian/generator/MybatisGeneratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/test-classes/com/tian/generator/MybatisGeneratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/tqz_base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.env.development" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.env.production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.env.staging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/README.es.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/README.ja.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/README.zh-CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/plopfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/api/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/api/qiniu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/api/remote-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/api/role.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/api/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/assets/401_images/401.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/assets/404_images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/assets/404_images/404_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/assets/custom-theme/fonts/element-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/assets/custom-theme/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/assets/custom-theme/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/BackToTop/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Breadcrumb/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Charts/Keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Charts/LineMarker.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Charts/MixChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Charts/mixins/resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/DndList/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/DragSelect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Dropzone/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/ErrorLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/GithubCorner/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Hamburger/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/HeaderSearch/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/ImageCropper/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/ImageCropper/utils/data2blob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/ImageCropper/utils/effectRipple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/ImageCropper/utils/language.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/ImageCropper/utils/mimes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/JsonEditor/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Kanban/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/LangSelect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/MDinput/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/MarkdownEditor/default-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/MarkdownEditor/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Pagination/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/PanThumb/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/RightPanel/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Screenfull/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Share/DropdownMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/SizeSelect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Sticky/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/SvgIcon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/TextHoverEffect/Mallki.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/ThemePicker/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Tinymce/components/EditorImage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Tinymce/dynamicLoadScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Tinymce/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Tinymce/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Tinymce/toolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Upload/SingleImage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Upload/SingleImage2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/Upload/SingleImage3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/components/UploadExcel/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/clipboard/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/clipboard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/el-drag-dialog/drag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/el-drag-dialog/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/el-table/adaptive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/el-table/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/permission/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/permission/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/waves/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/waves/waves.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/directive/waves/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/filters/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/404.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/bug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/clipboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/component.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/dashboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/documentation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/drag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/education.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/example.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/excel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/exit-fullscreen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/eye-open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/form.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/fullscreen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/guide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/international.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/language.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/lock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/message.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/money.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/nested.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/pdf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/people.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/peoples.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/qq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/shopping.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/size.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/skill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/theme.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/tree-table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/tree.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/wechat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svg/zip.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/icons/svgo.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/lang/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/AppMain.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Settings/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Sidebar/FixiOSBug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Sidebar/Item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Sidebar/Link.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Sidebar/Logo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/Sidebar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/TagsView/ScrollPane.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/TagsView/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/layout/mixin/ResizeHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/router/modules/charts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/router/modules/components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/router/modules/nested.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/router/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/modules/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/modules/errorLog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/modules/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/modules/settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/modules/tagsView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/store/modules/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/btn.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/element-ui.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/element-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/styles/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/error-log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/get-page-title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/open-window.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/scroll-to.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/utils/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/vendor/Export2Excel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/vendor/Export2Zip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/charts/keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/charts/line.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/charts/mix-chart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/clipboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/avatar-upload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/back-to-top.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/count-to.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/dnd-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/drag-dialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/drag-kanban.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/drag-select.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/dropzone.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/json-editor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/markdown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/mixin.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/split-pane.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/sticky.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/components-demo/tinymce.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/BarChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/BoxCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/LineChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/PanelGroup.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/PieChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/RaddarChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/TodoList/Todo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/TodoList/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/TodoList/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/TransactionTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/components/mixins/resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/admin/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/editor/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/dashboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/documentation/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/error-log/components/ErrorTestA.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/error-log/components/ErrorTestB.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/error-log/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/error-page/401.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/error-page/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/components/ArticleDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/components/Dropdown/Comment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/components/Dropdown/Platform.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/components/Dropdown/SourceUrl.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/components/Dropdown/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/components/Warning.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/create.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/example/list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/excel/components/AutoWidthOption.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/excel/components/BookTypeOption.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/excel/components/FilenameOption.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/excel/export-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/excel/merge-header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/excel/select-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/excel/upload-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/guide/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/guide/steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/i18n-demo/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/i18n-demo/local.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/icons/element-icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/icons/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/icons/svg-icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/login/auth-redirect.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/login/components/SocialSignin.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/login/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/nested/menu1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/nested/menu1/menu1-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/nested/menu1/menu1-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/nested/menu1/menu1-2/menu1-2-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/nested/menu1/menu1-2/menu1-2-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/nested/menu1/menu1-3/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/nested/menu2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/pdf/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/pdf/download.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/pdf/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/permission/components/SwitchRoles.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/permission/directive.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/permission/page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/permission/role.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/profile/components/Account.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/profile/components/Activity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/profile/components/Timeline.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/profile/components/UserCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/profile/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/qiniu/upload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/redirect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/sysUser/sysUser.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/tab/components/TabPane.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/tab/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/table/complex-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/table/drag-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/table/dynamic-table/components/FixedThead.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/table/dynamic-table/components/UnfixedThead.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/table/dynamic-table/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/table/inline-edit-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/theme/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/src/views/zip/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/tests/unit/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/tests/unit/components/Hamburger.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/tests/unit/components/SvgIcon.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/tests/unit/utils/formatTime.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/tests/unit/utils/parseTime.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/tests/unit/utils/validate.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-admin-template" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-admin-template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-element-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-element-admin" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cliFB6VfikWBFJpPwLweMcaWSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springcloud-demo\config-server1\src\main\resources" />
+      <recent name="D:\springcloud-demo\config-server\src\main\resources" />
+      <recent name="D:\springcloud-demo\config-server\src\main\java" />
+      <recent name="D:\springcloud-demo\zuul-server\src\main\resources" />
+      <recent name="D:\springcloud-demo\zuul-server\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OrderServerApplication">
+    <configuration name="OrderServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tian.springcloud.OrderServerApplication" />
+      <module name="order-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.springcloud.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerAppliction" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.springcloud.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.config.ConfigServerAppliction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.OrderServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.productapi.ProductApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="product-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.springcloud.productserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.productserver.ProductServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.zuulserver.ZuulServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderServerApplication" />
+        <item itemvalue="Spring Boot.ProductServerApplication" />
+        <item itemvalue="Spring Boot.ConfigServerAppliction" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.OrderServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3d04de4-e415-473c-b6e1-bfbfc8ee61a0" name="Default Changelist" comment="" />
+      <created>1591109474101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591109474101</updated>
+      <workItem from="1591109476668" duration="4213000" />
+      <workItem from="1591190678699" duration="4136000" />
+      <workItem from="1591279672433" duration="3422000" />
+      <workItem from="1591371132591" duration="4872000" />
+      <workItem from="1591509985709" duration="3995000" />
+      <workItem from="1591526678901" duration="756000" />
+      <workItem from="1591528966419" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/zuul-server/src/main/java/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
