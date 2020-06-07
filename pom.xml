@@ -9,7 +9,7 @@
         <module>product-server</module>
         <module>order-server</module>
         <module>zuul-server</module>
-        <module>config-server1</module>
+        <module>config-server</module>
     </modules>
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>

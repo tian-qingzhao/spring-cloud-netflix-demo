@@ -418,7 +418,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -441,7 +441,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrderServerApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerAppliction (1)">
     <configuration name="OrderServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tian.springcloud.OrderServerApplication" />
       <module name="order-server" />
@@ -515,6 +515,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigServerAppliction (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tian.springcloud.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.config.ConfigServerAppliction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigServerAppliction" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="config-server1" />
       <extension name="coverage">
@@ -535,14 +548,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="order-server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tian.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.tian.springcloud.OrderServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -579,9 +586,9 @@
       <list>
         <item itemvalue="Application.OrderServerApplication" />
         <item itemvalue="Spring Boot.ProductServerApplication" />
+        <item itemvalue="Spring Boot.ConfigServerAppliction (1)" />
         <item itemvalue="Spring Boot.ConfigServerAppliction" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
-        <item itemvalue="Spring Boot.OrderServerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -601,7 +608,7 @@
       <workItem from="1591371132591" duration="4872000" />
       <workItem from="1591509985709" duration="3995000" />
       <workItem from="1591526678901" duration="756000" />
-      <workItem from="1591528966419" duration="244000" />
+      <workItem from="1591528966419" duration="9249000" />
     </task>
     <servers />
   </component>
@@ -618,16 +625,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/zuul-server/src/main/java/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
