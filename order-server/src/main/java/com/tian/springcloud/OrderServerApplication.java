@@ -30,7 +30,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  *                而服务降级是从整体符合考虑。
  *           服务雪崩的解决思路：1.超时机制 2.服务限流 3.服务熔断 4.服务降级
  *           熔断隔离的两种策略：1.线程池(默认的) 2.信号量
- *           进入监控仪表盘的地址： http://域名:端口号/hystrix
+ *           *进入监控仪表盘的地址： http://域名:端口号/hystrix
  *                              然后在中间的地址栏输入http://域名:端口号/actuator/hystrix.stream
  *
  *         Zuul网关是系统的唯一对外的入口，介于客户端和服务端之间的中间层，处理业务功能，

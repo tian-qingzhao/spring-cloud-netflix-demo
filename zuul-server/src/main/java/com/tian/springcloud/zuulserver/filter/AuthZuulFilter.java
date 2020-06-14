@@ -44,7 +44,7 @@ public class AuthZuulFilter extends ZuulFilter {
      */
     @Override
     public boolean shouldFilter() {
-        RequestContext requestContext = RequestContext.getCurrentContext();
+        /*RequestContext requestContext = RequestContext.getCurrentContext();
         HttpServletRequest request = requestContext.getRequest();
         String token = request.getHeader("token");
         String cookie = request.getHeader("Cookie");
@@ -54,7 +54,10 @@ public class AuthZuulFilter extends ZuulFilter {
             // 是否执行该过滤器，此处为true，说明需要过滤，然后会执行下面的run()方法
             return true;
         }
-        return false;
+        return false;*/
+
+        //真实项目中直接返回true，代表所有的请求全部需要拦截
+        return true;
     }
 
     /**

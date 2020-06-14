@@ -33,6 +33,10 @@
       <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../smartWater-pc" beforeDir="false" afterPath="$PROJECT_DIR$/../smartWater-pc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/OrderServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/OrderServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-server/src/main/java/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-server/src/main/java/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/misc.xml" beforeDir="false" />
@@ -385,7 +389,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -408,7 +412,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/githubCode/apollo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -441,7 +445,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServerAppliction (1)">
+  <component name="RunManager" selected="Spring Boot.ZuulServerApplication">
     <configuration name="OrderServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tian.springcloud.OrderServerApplication" />
       <module name="order-server" />
@@ -584,9 +588,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrderServerApplication" />
         <item itemvalue="Spring Boot.ProductServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerAppliction (1)" />
+        <item itemvalue="Application.OrderServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerAppliction" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
       </list>
@@ -608,7 +612,8 @@
       <workItem from="1591371132591" duration="4872000" />
       <workItem from="1591509985709" duration="3995000" />
       <workItem from="1591526678901" duration="756000" />
-      <workItem from="1591528966419" duration="9249000" />
+      <workItem from="1591528966419" duration="10122000" />
+      <workItem from="1591859110293" duration="3837000" />
     </task>
     <servers />
   </component>
@@ -620,7 +625,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
