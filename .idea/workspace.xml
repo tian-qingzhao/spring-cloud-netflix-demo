@@ -141,8 +141,6 @@
       <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/resources/META-INF/special-bean-instantiation-context.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spring-framework/spring-framework.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spring-framework/springframework.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tqz/.idea/tqz.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tsf-mesh-demo-java/.idea/tsf-mesh-demo-java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tsf-mesh-demo-java/source-code/tsf-mesh-demo.iml" afterDir="false" />
@@ -155,41 +153,6 @@
       <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../smartWater-pc" beforeDir="false" afterPath="$PROJECT_DIR$/../smartWater-pc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/java/com/tian/springcloud/config/ConfigServerAppliction.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/java/com/tian/springcloud/config/ConfigServerAppliction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/target/classes/com/tian/springcloud/config/ConfigServerAppliction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/tian/springcloud/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/tian/springcloud/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/com/tian/springcloud/eurekaserver/EurekaServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/com/tian/springcloud/eurekaserver/config/WebSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/orderserver/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/orderserver/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/OrderServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/config/RestTemplateConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/controller/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/entity/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/service/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/service/impl/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/ProductApiApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/entity/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/feign/ProductFeignApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/hystrix/ProductFeignHystrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-server/target/classes/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/ProductServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/feign/ProductFeignClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/mapper/ProductMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/service/ProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/service/impl/ProductServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/ZuulServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/misc.xml" beforeDir="false" />
@@ -753,7 +716,7 @@
       <workItem from="1600878592450" duration="560000" />
       <workItem from="1601306353831" duration="1184000" />
       <workItem from="1641720531958" duration="3043000" />
-      <workItem from="1669598779956" duration="9253000" />
+      <workItem from="1669598779956" duration="9632000" />
     </task>
     <servers />
   </component>
