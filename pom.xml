@@ -21,8 +21,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.tian</groupId>
-    <artifactId>springcloud-demo</artifactId>
+    <groupId>com.tqz.netflix.cloud</groupId>
+    <artifactId>spring-cloud-netflix-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
