@@ -4,6 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 /**
  * @Author: tian
  * @Date: 2020/2/24 1:46
@@ -21,8 +23,17 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @SpringBootApplication
 @EnableEurekaServer //开启eureka服务端
 public class EurekaServerApplication {
+    
+    private static AtomicInteger nextIndex = new AtomicInteger();
 
     public static void main(String[] args) {
+        int current = nextIndex.get();
+        int next = (current + 1) % 3;
+        
+        if (nextIndex.compareAndSet(current, next)) {
+            System.out.println("1111");
+        }
+        
         SpringApplication.run(EurekaServerApplication.class, args);
     }
 

@@ -1,24 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3d04de4-e415-473c-b6e1-bfbfc8ee61a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2018-12-24/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackProject/.idea/BackProject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/.idea/gupaoVIP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/collection/collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/csdn-rpc/csdn-rpc.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/dispatcher_servlet/dispatcher_servlet.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/dubbo/dubbo-client/dubbo-client.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/dubbo/dubbo-server/dubbo-server.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/dubbo/dubbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/jdk-spi/jdk-spi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/jdk-spi/spi-impl/spi-impl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/jdk-spi/spi-interface/spi-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/jdk-spi/spi-invoking/spi-invoking.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/kafka/kafka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/mybatis-plus-crud/mybatis-plus-crud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/mybatis-plus-generator/mybatis-plus-generator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/netty-io/netty-io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/nacos-demo/nacos-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/nacos/nacos-consumer/nacos-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/nacos/nacos-provider1/nacos-provider1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/nacos/nacos-provider1/target/classes/META-INF/nacos-provider.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/nacos/nacos-provider2/nacos-provider2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/nacos/nacos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/netty-chat/netty-chat.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/orm-tqz/orm-tqz.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/orm_tian/orm_tian.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/rabbit-mq/rabbit-mq.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/rabbitmq/rabbit-mq (1) (com.tian).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/redis-demo/redis-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/rocketmq-demo/rocketmq-demo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/sharding-sphere/sharding-sphere.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/spring/spring.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/springmvc-tomcat/springmvc-tomcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/test/test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/thread/thread.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/websocket/websocket.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service-admin/zk-service-admin.iml" afterDir="false" />
@@ -27,16 +44,152 @@
       <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service-register/zk-service-register.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/zk-service/zk-service.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/zookeeper/zookeeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo-02/.idea/dubbo-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo-02/dubbo-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo-02/dubbo-provider/src/main/java/com/tqz/dubbo/provider/CustomProtocolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo-02/dubbo-provider/src/main/java/com/tqz/dubbo/provider/DubboProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo-02/dubbo-provider/src/main/java/com/tqz/dubbo/provider/SayHelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-biz/hourse-biz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/hourse-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/constants/CommonConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/constants/HouseUserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/page/PageParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/result/ResultMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/utils/BeanHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-common/src/main/java/com/tian/hourse/common/utils/HashUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-v1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-web/hourse-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/hourse-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hourse/hourse-v1.0/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skywalking-demo/user-service/src/main/java/com/tqz/skywalking/user/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skywalking-demo/user-service/src/main/java/com/tqz/skywalking/user/feign/OrderFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skywalking-demo/user-service/src/main/java/com/tqz/skywalking/user/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/src/main/java/com/tqz/consumer/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/src/main/java/com/tqz/consumer/annotation/Ratelimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/src/main/java/com/tqz/consumer/aop/RatelimitAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/src/main/java/com/tqz/consumer/controller/ConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/src/main/java/com/tqz/consumer/feign/ProviderFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/src/main/java/com/tqz/consumer/feign/ProviderFeignFallbackFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/provider/src/main/java/com/tqz/provider/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/provider/src/main/java/com/tqz/provider/controller/ProviderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-alibaba-feign/provider/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-oauth2-demo/oauth2-common/src/main/java/com/tqz/oauth2/common/entity/SysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-oauth2-demo/oauth2-server/target/classes/com/tqz/oauth2/server/config/JsonSerializationStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-oauth2-demo/portal-service/src/main/java/com/tqz/oauth2/portal/controller/code/CallBackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-oauth2-demo/portal-service/src/main/java/com/tqz/oauth2/portal/util/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-cloud-oauth2-demo/portal-service/src/main/java/com/tqz/oauth2/portal/util/GetTokenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AnnotationDependencyContructorInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AnnotationDependencyFieldInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AnnotationDependencyInjectionResolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AnnotationDependencyMethodInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AnnotationDependencySetterInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/ApiDependencyConstructorInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/ApiDependencySetterInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AutowiringByNameDependencySettingInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AutowiringDependencyConstructorInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/AwareInterfaceDependencyInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/LazyAnnotationDependencyInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/QualifierAnnotationDependencyInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/UserHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/XmlDependencyConstructorInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/XmlDependencySetterInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/annotation/InjectUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/annotation/MyAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/java/com/tqz/dependency/injection/annotation/UserGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/resources/META-INF/autowiring-dependency-constructor-injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/resources/META-INF/autowiring-dependency-setter-injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/resources/META-INF/dependency-constructor-injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-injection/src/main/resources/META-INF/dependency-setter-injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-lookup/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-lookup/src/main/java/com/tqz/dependency/lookup/HierarchicalDependencyLookupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-lookup/src/main/java/com/tqz/dependency/lookup/ObjectProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/dependency-lookup/src/main/java/com/tqz/dependency/lookup/test/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/annotation/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/dependency/annotation/AnnotationApplicationContextAsIoCContinerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/dependency/continer/IoCContinerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/dependency/injection/DependencyInjectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/dependency/lookup/DependencyLookupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/domain/SuperUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/java/com/tqz/ioc/continer/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/resources/META-INF/dependency-injection-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/ioc-continer/src/main/resources/META-INF/dependency-lookup-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/AnnotationBeanDefinitionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/BeanAliasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/BeanDefinitionCreationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/BeanGCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/BeanInitializationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/BeanInstantiationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/SingleBeanRegistryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/SpecialBeanInstantiationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/factory/DefaultUserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/factory/UserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/java/com/tqz/spring/bean/definition/factory/UserFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/resources/META-INF/bean-definitions-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/resources/META-INF/bean-instantiation-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/resources/META-INF/services/com.tqz.spring.bean.definition.factory.UserFactory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-bean/src/main/resources/META-INF/special-bean-instantiation-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/spring-framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework/springframework.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tqz/.idea/tqz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsf-mesh-demo-java/.idea/tsf-mesh-demo-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsf-mesh-demo-java/source-code/tsf-mesh-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsf-mesh-demo-java/source-code/tsf-promotion-demo/tsf-promotion-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsf-mesh-demo-java/source-code/tsf-shop-demo/tsf-shop-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsf-mesh-demo-java/source-code/tsf-user-demo/tsf-user-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2018-12-24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2018-12-24/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../smartWater-pc" beforeDir="false" afterPath="$PROJECT_DIR$/../smartWater-pc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/OrderServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/OrderServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul-server/src/main/java/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-server/src/main/java/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/src/main/java/com/tian/springcloud/config/ConfigServerAppliction.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/java/com/tian/springcloud/config/ConfigServerAppliction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/target/classes/com/tian/springcloud/config/ConfigServerAppliction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/tian/springcloud/eurekaserver/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/tian/springcloud/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/com/tian/springcloud/eurekaserver/EurekaServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/com/tian/springcloud/eurekaserver/config/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/orderserver/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/java/com/tian/springcloud/orderserver/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-server/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/OrderServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/config/RestTemplateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-server/target/classes/com/tian/springcloud/orderserver/service/impl/OrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/ProductApiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/feign/ProductFeignApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/target/classes/com/tian/springcloud/productapi/hystrix/ProductFeignHystrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/ProductServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/feign/ProductFeignClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/mapper/ProductMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-server/target/classes/com/tian/springcloud/productserver/service/impl/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/ZuulServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul-server/target/classes/com/tian/springcloud/zuulserver/filter/AuthZuulFilter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../swagger/.idea/misc.xml" beforeDir="false" />
@@ -54,6 +207,7 @@
       <change beforePath="$PROJECT_DIR$/../tqz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/log/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/log/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/config/database/commons/DynamicDataSourceAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/java/com/tian/config/database/commons/DynamicDataSourceAspect.java" afterDir="false" />
@@ -66,17 +220,41 @@
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/MybatisGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/MybatisGeneratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/src/test/java/com/tian/generator/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DynamicDataSourceAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DynamicDataSourceAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/SysUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/SysUserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/Testcontroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/Testcontroller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/IdGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/IdGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/ResultVoEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/ResultVoEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/test-classes/com/tian/generator/MybatisGeneratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tqz/tqz_base/target/test-classes/com/tian/generator/MybatisGeneratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/BaseApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/annotation/TargetDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DataSourceKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DynamicDataSourceAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DynamicDataSourceContextHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/commons/DynamicRoutingDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/config/database/configuration/DynamicDataSourceConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/SysUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/controller/Testcontroller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/mapper/SysUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/pojo/SysUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/service/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/service/RedisService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/service/SysUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/service/SysUserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/swagger/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/BaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/CommonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/IdGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/RedisKeyConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/ResultVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/ResultVoEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/com/tian/util/SystemConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/classes/mapping/SysUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/target/test-classes/com/tian/generator/MybatisGeneratorTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_base/tqz_base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_eureka/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tqz/tqz_eureka/target/classes/com/tian/EurekaApplication.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.env.development" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../tqz/tqz_web/.env.production" beforeDir="false" />
@@ -375,7 +553,6 @@
       <change beforePath="$PROJECT_DIR$/../vue-admin-template" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-admin-template" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue-element-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-element-admin" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -399,20 +576,29 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1cliFB6VfikWBFJpPwLweMcaWSK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/githubCode/apollo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -422,7 +608,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -433,19 +625,7 @@
       <recent name="D:\springcloud-demo\zuul-server\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.ZuulServerApplication">
+  <component name="RunManager" selected="Spring Boot.OrderServerApplication">
     <configuration name="OrderServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tian.springcloud.OrderServerApplication" />
       <module name="order-server" />
@@ -455,53 +635,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -588,14 +721,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ProductServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerAppliction (1)" />
+        <item itemvalue="Spring Boot.ProductServerApplication" />
         <item itemvalue="Application.OrderServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerAppliction" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -614,23 +748,44 @@
       <workItem from="1591526678901" duration="756000" />
       <workItem from="1591528966419" duration="10122000" />
       <workItem from="1591859110293" duration="3837000" />
+      <workItem from="1592116873980" duration="1187000" />
+      <workItem from="1598625914615" duration="253000" />
+      <workItem from="1600878592450" duration="560000" />
+      <workItem from="1601306353831" duration="1184000" />
+      <workItem from="1641720531958" duration="3043000" />
+      <workItem from="1669598779956" duration="9253000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/2.2.1.RELEASE/spring-cloud-config-client-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigClientAutoConfiguration.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.1.RELEASE/spring-cloud-context-2.2.1.RELEASE-sources.jar!/org/springframework/cloud/context/scope/refresh/RefreshScope.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
